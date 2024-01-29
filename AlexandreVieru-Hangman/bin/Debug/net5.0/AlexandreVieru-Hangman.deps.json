@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlexandreVieru-Hangman/1.0.0": {
+        "runtime": {
+          "AlexandreVieru-Hangman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlexandreVieru-Hangman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

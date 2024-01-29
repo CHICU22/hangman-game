@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WiZYtzVYGWSV5DiRqdE/iPBpB+zoZ1NbjA41aCRuEXIun/oCYqOJBhbOaZuyeW/FK58sIt92RdgWwIfGX/WStA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yola\\Desktop\\AlexandreVieru-Hangman\\AlexandreVieru-Hangman\\AlexandreVieru-Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yola\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
